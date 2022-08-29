@@ -2,28 +2,48 @@ title {
     
     color: rgb(20, 2, 39)}
     title
-    {text-align: center;}
+    {text-align: right;}
 
 h1
 {color:rgb(55, 4, 30)}
 h1
-{text-align: center;}
-
+{text-align: right;}
 h2 {
-    color:rgb(72, 2, 39)}
+    color:rgb(34, 3, 19)}
     h2
-    {text-align: center;}
+    {text-align: right;}
+ #titulo{ height: 25%;}
+#titulo{width: 30%;}
+#titulo{border: 1px solid rgb(72, 3, 47);}
+#titulo{align-items: left;}
+#titulo{margin: 1px;}
 body
-    {background: rgb(235, 205, 221)}
-    {font-size: 40PX}
-    {color: rgb(73, 2, 39);}
-p
-    {text-align: center;}
+    {background: rgb(159, 99, 133)}
+    body {font-size: 40PX}
+    body{color: rgb(73, 2, 39);}
+#p
+{text-align: center;}
+#p1
+    {text-align: left;}
+#ferramenta1{ height: 25%;}
+#ferramenta1{width: 30%;}
+#ferramenta1{border: 1px solid rgb(72, 3, 48);}
 
+#ferramenta2{ height: 25%;}
+#ferramenta2{width: 30%;}
+#ferramenta2{border: 1px solid rgb(57, 4, 35);}
 
+#ferramenta3{ height: 25%;}
+#ferramenta3{width: 30%;}
+#ferramenta3{border: 1px solid rgb(59, 8, 50);}
 
+#ferramenta4{ height: 25%;}
+#ferramenta4{width: 30%;}
+#ferramenta4{border: 1px solid rgb(53, 4, 30);}
 
-
+#ferramenta5{ height: 25%;}
+#ferramenta5{width: 30%;}
+#ferramenta5{border: 1px solid rgb(58, 2, 42);}
 
      
 
